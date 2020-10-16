@@ -53,7 +53,7 @@ class Search extends Component{
   }
   render(){
     return (
-    <div>
+    <div class="container">
     <div class="search-box">
       <h2>Search by City Name</h2>
       <form>
